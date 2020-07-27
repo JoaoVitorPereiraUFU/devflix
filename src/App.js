@@ -14,26 +14,22 @@ function App() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript!"}
+        videoDescription={"Muita gente se pergunta qual rumo tomar na hora de se especializar em programação. Front-end, back-end ou full stack? Será mesmo que você está tomando a melhor decisão para a sua carreira?"}
       />
       <Carousel 
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[1]}
       />
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
       />
       <Carousel 
-        ignoreFirstVideo
         category={dadosIniciais.categorias[4]}
       />
       <Footer /> 

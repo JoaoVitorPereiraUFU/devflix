@@ -3,23 +3,19 @@
     {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "#410663",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Devo ser front-end, back-end ou full stack? | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=X9svzO3KNEo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Paginação no Front End com JS purot",
+          "url": "https://www.youtube.com/watch?v=6-VDE3H9-WU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Freelancer, Síndrome do Impostor, Site para Portfólio",
+          "url": "https://www.youtube.com/watch?v=hka7ay9F1kk"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -34,8 +30,8 @@
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Utilizando React.memo",
+          "url": "https://www.youtube.com/watch?v=sBA_SDhIPqQ"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -46,138 +42,100 @@
     {
       "titulo": "Back End",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Node.js: Iniciando da teoria à prática",
+          "url": "https://www.youtube.com/watch?v=DiXbJL3iWVs"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Debug de aplicações Node.js com VSCode | Code/Drops",
+          "url": "https://www.youtube.com/watch?v=bVAhNaxBEjM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Express JS - Router and Routes",
+          "url": "https://www.youtube.com/watch?v=iM_S4RczozU"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Express JS - What the Heck is Middleware",
+          "url": "https://www.youtube.com/watch?v=MIr1oxQ3pao"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Learn Express Middleware In 14 Minutes",
+          "url": "https://www.youtube.com/watch?v=lY6icfhap2o"
+        }, 
+        {
+          "titulo": "SQL no Node.js com Sequelize",
+          "url": "https://www.youtube.com/watch?v=Fbu7z5dXcRs"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Scrum",
+      "cor": "#0542a3",
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que faz um Scrum Master [Decifrando Agile 7]",
+          "url": "https://www.youtube.com/watch?v=ijLxEealwNw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "O que faz um Product Owner?",
+          "url": "https://www.youtube.com/watch?v=oeBw5k7zXlg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Analista de Negócio x Product Owner",
+          "url": "https://www.youtube.com/watch?v=0U11iGCNmDU"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Requisitos em abordagem Tradicional x Agil",
+          "url": "https://www.youtube.com/watch?v=oYRp5JHxbOY"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Gerenciamento de Projeto",
+      "cor": "#878505",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+          "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Padronizando mensagens de commit do Git ",
+          "url": "https://www.youtube.com/watch?v=erInHkjxkL8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "CodeQuinta #5 - Fluxo Git & Github",
+          "url": "https://www.youtube.com/watch?v=2T2l2rGRzXs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Resumão - Conceitos fundamentais do gerenciamento de projetos",
+          "url": "https://www.youtube.com/watch?v=9mCQORwPY-A"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Mercado",
+      "cor": "#852001",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Mercado de TI procura mão de obra qualificada",
+          "url": "https://www.youtube.com/watch?v=UOOYjmCZ_fQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Salários, Mercado de Trabalho e o Futuro da Programação",
+          "url": "https://www.youtube.com/watch?v=uIOkpQa8PGU"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Idade na programação, Medo de entrevista, Realocação no Mercado e Trabalho Remoto",
+          "url": "https://www.youtube.com/watch?v=XomJBk4krnI"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Carreira e Mercado | Melhores Momentos S01 Podcast FalaDev",
+          "url": "https://www.youtube.com/watch?v=nYLd-i4KA1o"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "O mercado de trabalho de games - Alura Live",
+          "url": "https://www.youtube.com/watch?v=TG-d9IJ2PqQ"
         }
       ]
     }
