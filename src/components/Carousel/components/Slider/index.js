@@ -2,6 +2,21 @@ import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
 
+const settings = {
+      className: "center",
+      variableWidth: true,
+      adaptiveHeight: true,
+      infinite: true,
+      centerPadding: "60px",
+      slidesToShow: 5,
+      swipeToSlide: true,
+      afterChange: function(index) {
+        console.log(
+          `Slider Changed to: ${index + 1}, background: #222; color: #bada55`
+        );
+      }
+    };
+
 const Container = styled.ul`
   padding: 0;
   margin: 0;
@@ -18,6 +33,12 @@ const Container = styled.ul`
       font-size: 30px;
     }
   }
+  .slick-next::before, .slick-prev::before {
+    font-size: 30px;
+    line-height: 1;
+    opacity: .75;
+    color: #111;
+}
   
   .slick-prev {
     left: 0;
@@ -40,14 +61,7 @@ export const SliderItem = styled.li`
 
 const Slider = ({ children }) => (
   <Container>
-    <SlickSlider {...{
-      dots: false,
-      infinite: false,
-      speed: 300,
-      centerMode: false,
-      variableWidth: true,
-      adaptiveHeight: true,
-    }}
+    <SlickSlider {...{...settings}}
     >
       {children}
     </SlickSlider>
