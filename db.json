@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id":1,
+      "nome": "Front End",
+      "descricao": "Transforme seu design",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id":2,
+      "nome": "Back End",
+      "descricao": "Velocidade e segurança para seu sistema",
+      "cor": "#cbd100"
+    }
+  ]
+}
